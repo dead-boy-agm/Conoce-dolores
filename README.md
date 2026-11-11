@@ -10,7 +10,7 @@ Guia turistica multimedia (imagen, audio-guia y video) construida con Clean Arch
 ![Lista de lugares](screenshots/02_detalle_jardin.png)
 ![Lista de lugares](screenshots/03_detalle_jardin_video.png)
 ![Lista de lugares](screenshots/04_detalle_parroquia.png)
-![Lista de lugares](screenshots/05_detalle_museo.png)
+
 
 
 
@@ -38,9 +38,11 @@ Guia turistica multimedia (imagen, audio-guia y video) construida con Clean Arch
    flutter test
    ```
 
-## Estructura
-## terminal
-![Lista de lugares](screenshots/terminal.jpg)
+## Pruebas
+
+Las pruebas del dominio corren sin Flutter ni multimedia real, usando un Fake del repositorio:
+
+![Resultado de flutter test](screenshots/06_flutter_test.png)
 
 ```
 lib/
