@@ -12,6 +12,8 @@ Guia turistica multimedia (imagen, audio-guia y video) construida con Clean Arch
 ![Lista de lugares](screenshots/04_detalle_parroquia.png)
 ![Lista de lugares](screenshots/05_detalle_museo.png)
 
+
+
 ## Puesta en marcha
 
 1. Dentro de esta carpeta, genera las carpetas de plataforma (android/, ios/, etc.) sin tocar `lib/`:
@@ -37,6 +39,8 @@ Guia turistica multimedia (imagen, audio-guia y video) construida con Clean Arch
    ```
 
 ## Estructura
+## terminal
+![Lista de lugares](screenshots/terminal.jpg)
 
 ```
 lib/
