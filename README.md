@@ -6,6 +6,12 @@ R1
 
 Guia turistica multimedia (imagen, audio-guia y video) construida con Clean Architecture en Flutter.
 
+![Lista de lugares](screenshots/01_lista.png)
+![Lista de lugares](screenshots/02_detalle_jardin.png)
+![Lista de lugares](screenshots/03_detalle_jardin_video.png)
+![Lista de lugares](screenshots/04_detalle_parroquia.png)
+![Lista de lugares](screenshots/05_detalle_museo.png)
+
 ## Puesta en marcha
 
 1. Dentro de esta carpeta, genera las carpetas de plataforma (android/, ios/, etc.) sin tocar `lib/`:
@@ -40,3 +46,4 @@ lib/
   main.dart      composition root
 ```
 >>>>>>> c185b69 (Descubre Dolores Hidalgo con Clean Architecture)
+>>>>>>> 
